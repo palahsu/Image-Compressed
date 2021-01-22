@@ -3,7 +3,7 @@ GUI Based Image Compressor. Fastly, image size reducer.
 
 After Download, before running the script, save any of your images to the same folder.
 
-More Features Comming Soon! Thanks.
+More Features Comming Soon! Before use, install all requirements! Thanks.
 
 For any kind of help, support, payment, suggetion and request ask me on Telegram:
 
