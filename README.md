@@ -5,9 +5,9 @@ After Download This, before running the script, save any of your images to the s
 
 # Support
 
--JPG
+- JPG
 
--PNG
+- PNG
 
 More Features Comming Soon! Before use, install all requirements!
 Thanks.
