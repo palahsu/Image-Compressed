@@ -1,11 +1,12 @@
 # Image-Compressed
 GUI Based Image Compressor. Fastly, image size reducer.
 
-After Download, before running the script, save any of your images to the same folder.
+After Download This, before running the script, save any of your images to the same folder then Run This.
 
-More Features Comming Soon! Before use, install all requirements! Thanks.
+More Features Comming Soon! Before use, install all requirements!
+Thanks.
 
-For any kind of help, support, payment, suggetion and request ask me on Telegram:
+For any kind of help, support, payment, suggetion and request ask me on Gmail/Telegram:
 
 <a href="https://t.me/linux_repo"><img src="https://img.shields.io/badge/Telegram-Group%20Telegram%20Join-blue.svg?logo=telegram"></a>
 
