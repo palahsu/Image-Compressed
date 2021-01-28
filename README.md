@@ -4,7 +4,9 @@ GUI Based Image Compressor. Fastly, image size reducer.
 After Download This, before running the script, save any of your images to the same folder then Run This.
 
 # Support
+
 -JPG
+
 -PNG
 
 More Features Comming Soon! Before use, install all requirements!
