@@ -7,7 +7,14 @@ After Download This, before running the script, save any of your images to the s
 - JPG Resize
 - PNG Resize
 
-More Features Comming Soon! Before use, install all module & pip requirements!
+More Features Comming Soon!
+
+# install all requirements!
+
+`pip install tkinter`
+`pip install pytest-shutil`
+`pip install pillow`
+
 Thanks.
 
 For any kind of help, support, payment, suggetion and request ask me on Gmail/Telegram:
