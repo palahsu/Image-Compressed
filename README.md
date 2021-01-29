@@ -6,6 +6,7 @@ After Download This, before running the script, save any of your images to the s
 # Feature
 - JPG Resize
 - PNG Resize
+- GUI
 
 More Features Comming Soon!
 
