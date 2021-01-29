@@ -12,7 +12,9 @@ More Features Comming Soon!
 # install all requirements!
 
 `pip install tkinter`
+
 `pip install pytest-shutil`
+
 `pip install pillow`
 
 For any kind of help, support, payment, suggetion and request ask me on Gmail/Telegram:
