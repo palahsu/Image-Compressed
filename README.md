@@ -8,7 +8,7 @@ After Download This, before running the script, save any of your images to the s
 - PNG Resize
 - GUI
 
-More Features Comming Soon!
+More Features & Exe Comming Soon!
 
 # Install all requirements!
 
