@@ -9,7 +9,7 @@ After Download This, before running the script, save any of your images to the s
 
 More Features Comming Soon!
 
-# install all requirements!
+# Install all requirements!
 
 `pip install tkinter`
 
